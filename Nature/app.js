@@ -1,8 +1,3 @@
-//prevent user from inspect page
-/*document.addEventListener('contextmenu', function(e) {
-    e.preventDefault();
-});*/
-
 
 //navbar 
 const header = document.querySelector("header");
